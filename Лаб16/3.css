@@ -1,0 +1,13 @@
+.fullcontainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.container{
+    margin: 10px;
+    text-align: center;
+    align-content: center;
+    border-style: solid;
+    border-radius: 50px;
+    width: 200px;
+    height: 400px;
+}
